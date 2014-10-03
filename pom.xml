@@ -150,12 +150,12 @@
 				<artifactId>asm</artifactId>
 				<version>5.0.3</version>
 			</dependency>
-			<!-- OVERGESTAPT OP MySQL
+			<!-- Binnenkort OVERGESTAP naar MySQL -->
 				<dependency>
 				<groupId>org.hsqldb</groupId>
 				<artifactId>hsqldb</artifactId>
 				<version>2.3.2</version>
-			</dependency> -->
+			</dependency> 
 			<dependency>
     				<groupId>mysql</groupId>
     				<artifactId>mysql-connector-java						</artifactId>
